@@ -1,0 +1,1 @@
+<img src=".github/preview.png" alt="Preview do Projeto Completo">
